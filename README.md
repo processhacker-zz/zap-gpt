@@ -35,3 +35,6 @@ Por fim rode o comando abaixo para iniciar o projeto e leia o QR Code com o seu 
 ```bash
   npm start
 ```
+
+
+https://www.tabnews.com.br/victorharry/guia-completo-de-como-integrar-o-chat-gpt-com-whatsapp
